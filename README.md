@@ -5,7 +5,7 @@ This is a web based application developed for a  ECOMMERCE: SHOE STORE.
 ### This web based shoe store application has been developed for the accomplishment of smartinternz Internship program launched by APSCHE
 
 
-**Project Link** - https://calm-tree-062749e00.3.azurestaticapps.net/blog.html
+**Project Link** - https://calm-tree-062749e00.3.azurestaticapps.net/index.html
 
 
 **Demo Video** -  https://www.youtube.com/watch?v=pauVRLy5qR4
